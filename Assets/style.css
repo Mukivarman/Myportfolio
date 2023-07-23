@@ -165,7 +165,7 @@ body{
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(200px,auto));
     align-items: center;
-  
+    padding:1%;
 }
 footer{
     background-color:#5285ffff; 
