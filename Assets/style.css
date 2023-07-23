@@ -163,7 +163,7 @@ body{
 }
 .skset{
     display: grid;
-    grid-template-columns: repeat(auto-fit,minmax(200px,auto));
+    grid-template-columns: repeat(auto-fit,minmax(150px,auto));
     align-items: center;
     padding:1%;
 }
